@@ -40,3 +40,24 @@
     background: url("../img/Vector.svg") no-repeat;
     background-position: 2.5em;
 }
+
+@media screen and (min-width: 1024px) {
+    .contato {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+
+    .contato__descricao {
+        margin: 2em;
+        width: 30%;
+    }
+
+    .contato__titulo {
+        font-size: 24px;
+    }
+
+    .contato__email {
+        width: 30%;
+    }
+}
