@@ -2,7 +2,7 @@
 Portifólio para os cursos de HTML e CSS da Alura.
 
 ## Links dos Projetos
-curso-html-css-alura - https://primeiro-projeto-marianny.netlify.app/
+<a href="https://primeiro-projeto-marianny.netlify.app/" target="_blank">curso-html-css-alura</a>
 
 aluramidi-curso-arquivos-iniciais - https://alura-midi-marianny.netlify.app
 
